@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber Security realted topics.
 - 📫 How to reach me: On here or [TryHackMe](https://tryhackme.com/p/0x90.nop.stack).
 
-![image](https://user-images.githubusercontent.com/110361097/229996111-d3c75317-965b-49e9-bd45-7d0114827341.png)
+![image](https://user-images.githubusercontent.com/110361097/231706093-43910e8d-fe62-40b0-b2e4-ae032411c145.png)
 
 <!---
 0x90-nop-stack/0x90-nop-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
