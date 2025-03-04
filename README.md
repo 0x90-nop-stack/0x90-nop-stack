@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Cyber Security realted topics.
 - 📫 How to reach me: On here or [TryHackMe](https://tryhackme.com/p/0x90.nop.stack).
 
-![0x90 nop stack](https://github.com/user-attachments/assets/0f317248-0fd6-4dd1-8f0e-16aa06b4bdac)
+![0x90 nop stack](https://github.com/user-attachments/assets/fdb107a6-f215-4970-9995-7fb1f578d8e8)
+
 
 
 
